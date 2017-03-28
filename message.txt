@@ -1,10 +1,9 @@
-4 
+5 
 ||| 
-[B][COLOR white][SIZE=+5]Hello Maggie! There's an update!
+[B][COLOR white][SIZE=+5]Hello Maggie! There's an update![/B][/COLOR][/SIZE]
 
-Go to the cog in the hidden control panel at the top of the screen. Then go to Add-ons > My Add-ons > Program Add-ons. Scroll down to 'Hello Maggie'. Double click on it then select 'Open' to reinstall. That's it.
+[B][COLOR white][SIZE=+5]Go to the cog in the hidden control panel at the top of the screen. Then go to Add-ons > My Add-ons > Program Add-ons. Scroll down to 'Hello Maggie'. Double click on it then select 'Open' to reinstall. That's it.[/B][/COLOR][/SIZE]
 
-Enjoy!
+[B][COLOR white][SIZE=+5]Enjoy![/B][/COLOR][/SIZE]
 
-JPC
-[/B][/COLOR][/SIZE]
+[B][COLOR white][SIZE=+5]JPC[/B][/COLOR][/SIZE]
