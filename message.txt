@@ -2,7 +2,7 @@
 ||| 
 [B][COLOR white][SIZE +5]Hello Maggie! There's an update![/B][/COLOR][/SIZE]
 
-[B][COLOR white][SIZE 5]Go to the cog in the hidden control panel at the top of the screen. Then go to Add-ons > My Add-ons > Program Add-ons. Scroll down to 'Hello Maggie'. Double click on it then select 'Open' to reinstall. That's it.[/B][/COLOR][/SIZE]
+[B][COLOR white][SIZE 5]Scroll to the left or right and select the Hello Maggie Wizard, double click then select 'Open' to reinstall. That's it.[/B][/COLOR][/SIZE]
 
 [B][COLOR white][SIZE=+5]Enjoy![/B][/COLOR][/SIZE]
 
