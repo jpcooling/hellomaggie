@@ -1,3 +1,7 @@
-1 
+2 
 ||| 
-Hello Maggie! There's an update!
+[B][COLOR white]Hello Maggie! There's an update![/COLOR][/B]
+
+[B][COLOR white]Go to the cog in the hidden control panel at the top of the screen. Then go to Add-ons > My Add-ons > Program Add-ons. Scroll down to 'Hello Maggie'. Double click on it then select 'Update'. That's it.[/COLOR][/B]
+
+[B][COLOR white]Enjoy![/COLOR][/B]
