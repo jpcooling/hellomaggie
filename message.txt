@@ -1,9 +1,9 @@
-6 
+7 
 ||| 
-[B][COLOR white][SIZE +5]Hello Maggie! There's an update![/B][/COLOR][/SIZE]
+[B][COLOR white]Hello Maggie! There's an update![/B][/COLOR]
 
-[B][COLOR white][SIZE 5]Scroll to the left or right and select the Hello Maggie Wizard, double click then select 'Open' to reinstall. That's it.[/B][/COLOR][/SIZE]
+[B][COLOR white]Scroll to the left or right and select the Hello Maggie Wizard, double click then select 'Open' to reinstall. That's it.[/B][/COLOR]
 
-[B][COLOR white][SIZE=+5]Enjoy![/B][/COLOR][/SIZE]
+[B][COLOR white]Enjoy![/B][/COLOR]
 
-[B][COLOR white][SIZE=+5]JPC[/B][/COLOR][/SIZE]
+[B][COLOR white]JPC[/B][/COLOR]
